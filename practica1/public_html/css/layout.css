@@ -1,0 +1,13 @@
+
+.container {
+float: left;
+}
+
+.article {
+width: 80%;
+}
+
+.side {
+  float: right;
+  width: 20%;
+}
